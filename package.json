@@ -1,8 +1,8 @@
 {
-  "name": "react-media",
+  "name": "@olistic/react-media",
   "version": "1.8.0",
   "description": "CSS media queries for React",
-  "repository": "ReactTraining/react-media",
+  "repository": "https://github.com/olistic/react-media.git",
   "license": "MIT",
   "author": "Michael Jackson",
   "files": [
