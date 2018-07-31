@@ -1,3 +1,10 @@
+## [v1.9.0]
+> Jul 31, 2018
+
+- Add `onQueryStateChange` callback
+
+[v1.9.0]: https://github.com/olistic/react-media/compare/v1.8.0...v1.9.0
+
 ## [v1.5.0]
 > Feb 17, 2017
 
