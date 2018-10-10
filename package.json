@@ -11,9 +11,9 @@
     "umd",
     "index.d.ts"
   ],
-  "main": "cjs/react-media.js",
-  "module": "esm/react-media.js",
-  "unpkg": "umd/react-media.js",
+  "main": "cjs/@olistic/react-media.js",
+  "module": "esm/@olistic/react-media.js",
+  "unpkg": "umd/@olistic/react-media.js",
   "types": "index.d.ts",
   "scripts": {
     "build": "node ./scripts/build.js",
