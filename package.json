@@ -1,6 +1,6 @@
 {
   "name": "@olistic/react-media",
-  "version": "1.10.0",
+  "version": "1.10.1",
   "description": "CSS media queries for React",
   "repository": "https://github.com/olistic/react-media.git",
   "license": "MIT",
